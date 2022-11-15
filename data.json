@@ -1,0 +1,22 @@
+{
+    "filmek": [
+        {
+        "id": 0,
+        "cim": "Harcosok klubja",
+        "hossz": "kb 2 óra",
+        "mennyiseg": 1
+    },
+    {
+        "id": 1,
+        "cim": "A remény rabjai",
+        "hossz": "kb 2 óra",
+        "mennyiseg": 5 
+    },
+    {
+        "id": 2,
+        "cim": "A gyűrűk ura",
+        "hossz": "3 óra",
+        "mennyiseg": 2
+    }
+    ]
+}
